@@ -35,7 +35,7 @@ Visit site @ https://genga28.github.io/Covid-19-Updates-Kim/
     •	Multer for file upload
     •	Django to perform contact page workings
     •	Anlytics using ml & dl models(Image processing)
-    •          Sentiment analysis is done using NLP
+    •       Sentiment analysis is done using NLP
     •	Mern stack to build the project
 
 
