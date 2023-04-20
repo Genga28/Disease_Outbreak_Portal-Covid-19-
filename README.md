@@ -5,26 +5,26 @@ Visit site @ https://genga28.github.io/Covid-19-Updates-Kim/
 
 # The End results are:
 
-    Home page : filled with covid details, button links, menu, subscription, podcast, map.
+    *Home page* : filled with covid details, button links, menu, subscription, podcast, map.
     Navigators 
 
-    Outbreak page: filled with details on covid-19- outbreak, steps to protect yourself. Navigators,
+    *Outbreak page*: filled with details on covid-19- outbreak, steps to protect yourself. Navigators,
     Audio controls, zoom in and out controls, download option, playback speed settings and picture 
     In picture mode)]
 
-    International page : global level covid dashboard with details on total cases , recovered cases,
+    *International page* : global level covid dashboard with details on total cases , recovered cases,
     Deaths, responsive graph charts, streamlit individual analysis with average cases and average 
     Cases per day.
 
-    National page: national level covid dashboard with details on india’s overall confirmed,
+    *National page*: national level covid dashboard with details on india’s overall confirmed,
     Recovered, deceased cases along with bar plots, pie charts, line graphs, box plots and details on a 
     Particular state’s overall confirmed, recovered, deceased cases along with bar plots, pie charts,
     Line graphs, box plots etc,. Till current date.
     
-    Blog page: where on logging in people can view other people’s short post blog and like, 
+    *Blog page*: where on logging in people can view other people’s short post blog and like, 
     comment on it While sharing their own experience.
 
-    Detect page: where user can upload their lung x-ray scan to check if at all they are diagnosed with covid-19 Or not
+    *Detect page*: where user can upload their lung x-ray scan to check if at all they are diagnosed with covid-19 Or not
 
 
 # Framework, front end and backend languages, tools and techniques to be used: 
